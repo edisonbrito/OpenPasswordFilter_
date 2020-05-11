@@ -1,0 +1,12 @@
+C:\OpenPasswordFilterSemBanco\OpenPasswordFilter-master\OPFService\bin\Release\OPFService.exe.config
+C:\OpenPasswordFilterSemBanco\OpenPasswordFilter-master\OPFService\bin\Release\OPFService.exe.manifest
+C:\OpenPasswordFilterSemBanco\OpenPasswordFilter-master\OPFService\bin\Release\OPFService.application
+C:\OpenPasswordFilterSemBanco\OpenPasswordFilter-master\OPFService\bin\Release\OPFService.exe
+C:\OpenPasswordFilterSemBanco\OpenPasswordFilter-master\OPFService\bin\Release\OPFService.pdb
+C:\OpenPasswordFilterSemBanco\OpenPasswordFilter-master\OPFService\obj\Release\OPFService.OPFService.resources
+C:\OpenPasswordFilterSemBanco\OpenPasswordFilter-master\OPFService\obj\Release\OPFService.ProjectInstaller.resources
+C:\OpenPasswordFilterSemBanco\OpenPasswordFilter-master\OPFService\obj\Release\OPFService.csproj.GenerateResource.Cache
+C:\OpenPasswordFilterSemBanco\OpenPasswordFilter-master\OPFService\obj\Release\OPFService.exe.manifest
+C:\OpenPasswordFilterSemBanco\OpenPasswordFilter-master\OPFService\obj\Release\OPFService.application
+C:\OpenPasswordFilterSemBanco\OpenPasswordFilter-master\OPFService\obj\Release\OPFService.exe
+C:\OpenPasswordFilterSemBanco\OpenPasswordFilter-master\OPFService\obj\Release\OPFService.pdb

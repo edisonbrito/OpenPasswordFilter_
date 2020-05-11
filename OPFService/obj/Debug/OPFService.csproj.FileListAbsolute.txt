@@ -1,0 +1,8 @@
+C:\OpenPasswordFilterSemBanco\OpenPasswordFilter-master\OPFService\bin\Debug\OPFService.exe.config
+C:\OpenPasswordFilterSemBanco\OpenPasswordFilter-master\OPFService\bin\Debug\OPFService.exe
+C:\OpenPasswordFilterSemBanco\OpenPasswordFilter-master\OPFService\bin\Debug\OPFService.pdb
+C:\OpenPasswordFilterSemBanco\OpenPasswordFilter-master\OPFService\obj\Debug\OPFService.OPFService.resources
+C:\OpenPasswordFilterSemBanco\OpenPasswordFilter-master\OPFService\obj\Debug\OPFService.ProjectInstaller.resources
+C:\OpenPasswordFilterSemBanco\OpenPasswordFilter-master\OPFService\obj\Debug\OPFService.csproj.GenerateResource.Cache
+C:\OpenPasswordFilterSemBanco\OpenPasswordFilter-master\OPFService\obj\Debug\OPFService.exe
+C:\OpenPasswordFilterSemBanco\OpenPasswordFilter-master\OPFService\obj\Debug\OPFService.pdb

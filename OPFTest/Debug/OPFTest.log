@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  OPFTest.cpp
+c:\openpasswordfiltersembanco\openpasswordfilter-master\opftest\opftest.cpp(67): warning C4267: '=': conversion from 'size_t' to 'USHORT', possible loss of data
+c:\openpasswordfiltersembanco\openpasswordfilter-master\opftest\opftest.cpp(68): warning C4267: '=': conversion from 'size_t' to 'USHORT', possible loss of data
+c:\openpasswordfiltersembanco\openpasswordfilter-master\opftest\opftest.cpp(58): warning C4477: 'printf' : format string '%08x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'HMODULE'
+c:\openpasswordfiltersembanco\openpasswordfilter-master\opftest\opftest.cpp(62): warning C4477: 'printf' : format string '%08x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'PasswordFilter_t'
+  Generating Code...
+  OPFTest.vcxproj -> C:\OpenPasswordFilterSemBanco\OpenPasswordFilter-master\Debug\OPFTest.exe
+  OPFTest.vcxproj -> C:\OpenPasswordFilterSemBanco\OpenPasswordFilter-master\Debug\OPFTest.pdb (Full PDB)
